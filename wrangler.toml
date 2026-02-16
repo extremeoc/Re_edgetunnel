@@ -9,10 +9,10 @@ compatibility_date = "2023-12-01"
 # ]
 
 [vars]
-# [UUID]
+[UUID]
 # Default: Auto-generated on first run.
 # You can set a fixed UUID here (Recommended for consistency).
-# UUID = "8a5ea040-33ff-4227-88bd-414bb865e59b"
+UUID = "e3663030-f11e-4a4f-8a6d-0d575b232603"
 
 # [Proxy IP]
 # PROXYIP = "1.2.3.4"
@@ -24,3 +24,4 @@ compatibility_date = "2023-12-01"
 binding = "KV"
 
 id = "54be6c1b2a784518b5631300fd0cf5f7"
+
