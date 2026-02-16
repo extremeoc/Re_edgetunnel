@@ -22,4 +22,5 @@ compatibility_date = "2023-12-01"
 # Replace "your-kv-id-here" with the ID you got
 [[kv_namespaces]]
 binding = "KV"
-id = "your-kv-id-here"
+
+id = "54be6c1b2a784518b5631300fd0cf5f7"
